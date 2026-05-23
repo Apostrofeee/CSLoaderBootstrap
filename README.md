@@ -1,6 +1,6 @@
 # GamesenseReloadedFix
 
-Исправление бага в **CS:GO Clients**, при которых вместо **CS:GO Legacy** запускается **CS2**.
+Исправление бага в **Clients (NL,GS, etc.)**, при запуске которых вместо **CS:GO Legacy** запускается **CS2**.
 
 ## Возможности
 
