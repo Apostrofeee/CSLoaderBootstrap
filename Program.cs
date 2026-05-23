@@ -1,9 +1,11 @@
 ﻿using System.Diagnostics;
 
+string gamePath = "/System/Applications/Calculator.app";
+
 ProcessStartInfo startInfo = new ProcessStartInfo
 {
     FileName = "open",
-    Arguments = "/System/Applications/Calculator.app"
+    Arguments = gamePath
 };
 
 using Process? process = Process.Start(startInfo);
