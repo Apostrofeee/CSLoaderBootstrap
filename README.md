@@ -1,4 +1,4 @@
-# GamesenseReloadedFix
+# CS Loader Bootstrap
 
 Исправление бага в **"Клиентах" (NL,GS, etc.)**, при запуске которых вместо **CS:GO Legacy** запускается **CS2**.
 
